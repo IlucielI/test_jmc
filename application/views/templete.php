@@ -89,22 +89,6 @@
 
 
 					<!-- Topbar Navbar -->
-					<ul class="navbar-nav">
-						<!-- Nav Item - User Information -->
-						<li class="nav-item dropdown no-arrow">
-							<a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								<i class="far fa-user-circle fa-2x mr-3"></i>
-							</a>
-							<!-- Dropdown - User Information -->
-							<div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
-								<a class="dropdown-item" href="<?= base_url('Auth/signOut') ?>">
-									<i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-									Sign Out
-								</a>
-							</div>
-						</li>
-
-					</ul>
 
 				</nav>
 				<!-- End of Topbar -->
